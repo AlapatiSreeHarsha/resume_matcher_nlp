@@ -1,5 +1,5 @@
 fitz
 streamlit
-sklearn
+scikit-learn
 pandas
 pymupdf
