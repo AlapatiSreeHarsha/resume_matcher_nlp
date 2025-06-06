@@ -1,0 +1,5 @@
+fitz
+streamlit
+sklearn
+pandas
+pymupdf
